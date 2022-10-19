@@ -1,0 +1,14 @@
+﻿  Homework3.9.2.cpp
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(31,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(31,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(46,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(46,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(51,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(51,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(56,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(56,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(106,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(106,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(106,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Firef\source\repos\Homework3.9.2\Homework3.9.2\Homework3.9.2.cpp(106,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Homework3.9.2.vcxproj -> C:\Users\Firef\source\repos\Homework3.9.2\x64\Debug\Homework3.9.2.exe
